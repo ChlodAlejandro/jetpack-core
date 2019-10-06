@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'org.jetpackft.jetpack'
+version '0.0.1-ALPHA'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'com.google.code.gson:gson:2.8.5'
+    compile 'commons-io:commons-io:2.6'
+    compile 'org.apache.commons:commons-lang3:3.9'
+    compile 'commons-codec:commons-codec:1.12'
+    compile 'org.apache.commons:commons-text:1.8'
+}
