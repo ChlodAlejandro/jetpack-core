@@ -131,3 +131,5 @@ gradlew.bat
 
 # Include the test server while I haven't made a repository for it yet.
 !Jetpack Test Server.jar
+
+/out/

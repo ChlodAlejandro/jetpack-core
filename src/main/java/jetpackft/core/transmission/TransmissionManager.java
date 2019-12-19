@@ -21,7 +21,7 @@ public class TransmissionManager {
     /**
      * The tag that this class uses for logging.
      */
-    private static final String LOG_TAG = "TransMan";
+    private static final String LOG_TAG = "TransmissionManager";
 
     /**
      * The length of a DataPacket.
