@@ -1,3 +1,6 @@
+# Deprecated project
+In favor of a newer version. This project is now unmaintained.
+
 # jetpack-core
 
 This repository contains primary classes used to power the Jetpack Transmission Protocol.
@@ -7,6 +10,3 @@ Note that this also contains `TransmissionManager`, which is supposed to be used
 ## Development
 
 The file `Jetpack Test Server.jar` is included in the repository. When run in a console, this will automatically accept all connections made by the `TransmissionManager`.
-
-## i am tired
-same
